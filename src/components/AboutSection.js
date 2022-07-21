@@ -21,7 +21,7 @@ const AboutSection = () => {
         <button>Contact us</button>
       </div>
       <div className="image">
-        <img src={home1} alt="Homepage image" />
+        <img src={home1} alt="Homepage" />
       </div>
     </div>
   );
